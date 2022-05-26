@@ -7,4 +7,10 @@ public class Terrain_test extends Terrain{
   ruta = new File("Assets/pasto_1.pgn");
   System.out.println("Terrain_test creado");
  }
+ public File getFile2(){
+  return ruta;
+ }
+ public static File getFile(){
+  return (new File("Assets/pasto_1.pgn"));
+ }
 }
