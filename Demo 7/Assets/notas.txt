@@ -1,0 +1,2 @@
+no reconoce las imagenes de graphics gale 
+ImaeIO.read() no reconoce bmp
